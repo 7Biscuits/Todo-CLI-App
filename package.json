@@ -1,0 +1,15 @@
+{
+  "name": "Todo-Cli-App",
+  "version": "1.0.0",
+  "description": "A CLI todo-list application",
+  "main": "app.js",
+  "author": "Rudransh",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}
